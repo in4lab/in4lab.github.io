@@ -1,0 +1,15 @@
+# This file contains the ORCID IDs of the authors and contributors to the project.
+# The ORCID IDs are used to generate citations and acknowledgments in the project.
+- orcid: 0009-0002-4648-9289
+  abdenour-soubih-list: true
+
+- orcid: 0000-0002-0086-8155
+  firuz-jaraev-list: true
+
+- orcid: 0000-0001-9705-1477
+  shaker-el-sappagh-list: true
+
+
+## Keep Andrew last in this list so 'orcid' gets correctly added to citations.yaml
+- orcid: 0000-0001-9232-4843
+  tamer-abuhmed-list: true

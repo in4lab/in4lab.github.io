@@ -1,5 +1,5 @@
 
-# in4labDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# in4lab the website for InfoLab
 
 Visit **[in4lab.github.io](https://in4lab.github.io)** 🚀
 

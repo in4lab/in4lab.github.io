@@ -1152,8 +1152,13 @@
   link: https://doi.org/g9b3cc
   orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: 'images/thumbnails/Responsible Artificial Intelligence for Mental Health
+    Disorders: Current Applications and Future Challenges.png'
+  buttons:
+  - type: pdf
+    link: pdf/resposible_artificial_intiligence.pdf
 - id: doi:10.1016/j.cmpb.2024.108348
   title: Alzheimer's disease diagnosis in the metaverse
   authors:

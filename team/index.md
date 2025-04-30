@@ -5,9 +5,11 @@ nav:
   tooltip: Meet the team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %} Team
 
-Our lab is made up of a talented mix of graduate students, postdoctoral researchers, programmers, and staff, and their backgrounds range from pure computer science to experimental biology.  If you're interested in joining this diverse and dynamic team, please reach out!
+Our lab is made up of a talented mix of graduate students, postdoctoral researchers, programmers, and staff, and their backgrounds range from pure computer science to experimental biology. If you're interested in joining this diverse and dynamic team, please reach out!
+
+## Quick Links
 
 {%
   include button.html
@@ -34,21 +36,37 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
   link="/team/join"
 %}
 
-{% include section.html %}
+---
 
+## Principal Investigator (PI)
+
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: pi" %}
 
-{% include section.html %}
+---
 
+## Senior Researchers
+
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: senior" %}
 
-{% include section.html %}
+---
 
+## PhD Students
+
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: phd" %}
 
+---
+
+## Combined Program Students
 
 {% include section.html %}
-
 {% include list.html data="members" component="portrait" filters="group: active, role: combined" %}
 
+---
+
+## Master's Students
+
+{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: master" %}

@@ -8,11 +8,16 @@
   buttons:
   - type: pdf
     link: pdf/Stealthy_Query-Efficient_Opaque_Attack_Against_Interpretable_Deep_Learning.pdf
-- id: doi:10.1109/TR.2025.3551717
+- id: doi:10.57197/JDR-2024-0101
   image: 'images/thumbnails/Responsible Artificial Intelligence for Mental Health Disorders: Current Applications and Future Challenges.png'
   buttons:
   - type: pdf
     link: pdf/resposible_artificial_intiligence.pdf
+- id: doi:10.1109/ACCESS.2025.3547573
+  image: 'images/thumbnails/FiSC: A Novel Approach for Fitzpatrick Scale-Based Skin Analyzer’s Image Classification.png'
+  buttons:
+  - type: pdf
+    link: pdf/FiSC_A_Novel_Approach_for_Fitzpatrick_Scale-Based_Skin_Analyzers_Image_Classification (1).pdf
 - id: doi:10.3390/app13063937
   image: ''
   buttons:

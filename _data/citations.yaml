@@ -1122,8 +1122,14 @@
   link: https://doi.org/g9b3b8
   orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: "images/thumbnails/FiSC: A Novel Approach for Fitzpatrick Scale-Based Skin\
+    \ Analyzer\u2019s Image Classification.png"
+  buttons:
+  - type: pdf
+    link: pdf/FiSC_A_Novel_Approach_for_Fitzpatrick_Scale-Based_Skin_Analyzers_Image_Classification
+      (1).pdf
 - id: doi:10.57197/JDR-2024-0101
   title: 'Responsible Artificial Intelligence for Mental Health Disorders: Current
     Applications and Future Challenges'
@@ -1137,8 +1143,13 @@
   link: https://doi.org/g9b3b9
   orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: 'images/thumbnails/Responsible Artificial Intelligence for Mental Health
+    Disorders: Current Applications and Future Challenges.png'
+  buttons:
+  - type: pdf
+    link: pdf/resposible_artificial_intiligence.pdf
 - id: doi:10.1109/TR.2025.3551717
   title: Stealthy Query-Efficient Opaque Attack Against Interpretable Deep Learning
   authors:
@@ -1154,11 +1165,11 @@
   tamer-abuhmed-list: true
   plugin: sources.py
   file: sources.yaml
-  image: 'images/thumbnails/Responsible Artificial Intelligence for Mental Health
-    Disorders: Current Applications and Future Challenges.png'
+  image: images/thumbnails/Stealthy Query-Efficient Opaque Attack Against Interpretable
+    Deep Learning.png
   buttons:
   - type: pdf
-    link: pdf/resposible_artificial_intiligence.pdf
+    link: pdf/Stealthy_Query-Efficient_Opaque_Attack_Against_Interpretable_Deep_Learning.pdf
 - id: doi:10.1016/j.cmpb.2024.108348
   title: Alzheimer's disease diagnosis in the metaverse
   authors:

@@ -9,7 +9,7 @@ nav:
 
 Our lab is made up of a talented mix of graduate students, postdoctoral researchers, programmers, and staff, and their backgrounds range from pure computer science to experimental biology. If you're interested in joining this diverse and dynamic team, please reach out!
 
-### Quick Links
+## Quick Links
 
 {%
   include button.html
@@ -36,32 +36,33 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
   link="/team/join"
 %}
 
+---
 
-{% include section.html %}
-### Principal Investigator (PI)
+## Principal Investigator (PI)
 
 {% include list.html data="members" component="portrait" filters="group: active, role: pi" %}
 
+---
 
-{% include section.html %}
-### Senior Researchers
+## Senior Researchers
 
 {% include list.html data="members" component="portrait" filters="group: active, role: senior" %}
 
+---
 
-{% include section.html %}
-### PhD Students
+## PhD Students
+
 
 {% include list.html data="members" component="portrait" filters="group: active, role: phd" %}
 
+---
 
-{% include section.html %}
-### Combined Program Students
+## Combined Program Students
 
 {% include list.html data="members" component="portrait" filters="group: active, role: combined" %}
 
+---
 
-{% include section.html %}
-### Master's Students
+## Master's Students
 
 {% include list.html data="members" component="portrait" filters="group: active, role: master" %}

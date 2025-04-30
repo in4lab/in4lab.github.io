@@ -3,6 +3,16 @@
   buttons:
   - type: pdf
     link: pdf/Towards_Robust_Federated_Learning_Investigating_Poisoning_Attacks_Under_Clients_Data_Heterogeneity (1).pdf
+- id: doi:10.1109/TR.2025.3551717
+  image: 'images/thumbnails/Stealthy Query-Efficient Opaque Attack Against Interpretable Deep Learning.png'
+  buttons:
+  - type: pdf
+    link: pdf/Stealthy_Query-Efficient_Opaque_Attack_Against_Interpretable_Deep_Learning.pdf
+- id: doi:10.1109/TR.2025.3551717
+  image: 'images/thumbnails/Responsible Artificial Intelligence for Mental Health Disorders: Current Applications and Future Challenges.png'
+  buttons:
+  - type: pdf
+    link: pdf/resposible_artificial_intiligence.pdf
 - id: doi:10.3390/app13063937
   image: ''
   buttons:

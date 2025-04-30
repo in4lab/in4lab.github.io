@@ -22,7 +22,7 @@ InfoLab is a part of the College of Computing and Informatics, Sungkyunkwan Univ
 %}
 
 <!-- Uncomment the following block if you want to include phone contact -->
-<!--
+
 ### Phone
 {%
   include button.html
@@ -30,7 +30,6 @@ InfoLab is a part of the College of Computing and Informatics, Sungkyunkwan Univ
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}
--->
 
 ---
 
@@ -51,43 +50,3 @@ InfoLab is a part of the College of Computing and Informatics, Sungkyunkwan Univ
 
 ---
 
-## Gallery
-
-### Campus and Research Facilities
-
-{% include section.html %}
-
-#### Row 1
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/gallery/AR401894.jpg"
-  width="300px"
-%}
-{% endcapture %}
-
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/scripps_skaggs.jpg"
-%}
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-#### Row 2
-{% capture col3 %}
-{%
-  include figure.html
-  image="images/1600w_la_jolla_campus_09.jpg"
-%}
-{% endcapture %}
-
-{% capture col4 %}
-{%
-  include figure.html
-  image="images/skku.jpg"
-%}
-{% endcapture %}
-
-{% include cols.html col1=col3 col2=col4 %}

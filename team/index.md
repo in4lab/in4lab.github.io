@@ -19,14 +19,14 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 
 {% include list.html data="members" component="portrait" filters="group: active, role: senior" %}
 
-
+<br>
 
 {% include list.html data="members" component="portrait" filters="group: active, role: phd" %}
-
+<br>
 
 {% include list.html data="members" component="portrait" filters="group: active, role: combined" %}
 
-
+<br>
 {% include list.html data="members" component="portrait" filters="group: active, role: master" %}
 
 {% include section.html %}

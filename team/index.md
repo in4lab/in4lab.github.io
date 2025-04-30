@@ -5,7 +5,7 @@ nav:
   tooltip: Meet the team
 ---
 
-# {% include icon.html icon="fa-solid fa-user-secret" %} Principal Investigator
+# {% include icon.html icon="fa-solid fa-user-secret" %}Principal Investigator
 
 Our lab is made up of a talented mix of graduate students, postdoctoral researchers, programmers, and staff, and their backgrounds range from pure computer science to experimental biology. If you're interested in joining this diverse and dynamic team, please reach out!
 
@@ -15,7 +15,7 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 
 {% include section.html %}
 
-# Researchers
+# {% include icon.html icon="fa-solid fa-users" %}Researchers
 
 {% include list.html data="members" component="portrait" filters="group: active, role: senior" %}
 
@@ -31,7 +31,7 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 
 {% include section.html %}
 
-### Quick Links
+# Quick Links
 
 {%
   include button.html

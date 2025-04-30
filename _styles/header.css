@@ -61,7 +61,7 @@ header a {
   width: 30px;
   height: 30px;
   margin: 0;
-  color: var(--text);
+  color: #dfe3e7;
   appearance: none;
   transition: background var(--transition);
 }
@@ -71,7 +71,7 @@ header a {
   position: absolute;
   left: 50%;
   top: 50%;
-  color: var(--text);
+  color: #dfe3e7;
   font-size: 15px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;

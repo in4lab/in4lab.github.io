@@ -9,9 +9,6 @@
 <header
   class="background"
   style="--image: url('{{ image }}'); background-color: #004483;"
-  {% if page.url == "/" %}
-    data-big
-  {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}

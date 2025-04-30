@@ -27,8 +27,8 @@ InfoLab is a part of the College of Computing and Informatics, Sungkyunkwan Univ
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(031) 290-7968"
+  link="+82-031-290-7968"
 %}
 
 ---

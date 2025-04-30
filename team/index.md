@@ -54,7 +54,7 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 {% include list.html data="members" component="portrait" filters="group: active, role: master" %}
 
 
-<!--{% include section.html background="images/background.jpg" dark=true %}
+<!-- {% include section.html background="images/background.jpg" dark=true %} -->
 
-{% include section.html %}-->
+<!-- {% include section.html %} -->
 

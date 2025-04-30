@@ -36,37 +36,32 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
   link="/team/join"
 %}
 
----
 
+{% include section.html %}
 ## Principal Investigator (PI)
 
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: pi" %}
 
----
 
+{% include section.html %}
 ## Senior Researchers
 
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: senior" %}
 
----
 
+{% include section.html %}
 ## PhD Students
 
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: phd" %}
 
----
 
+{% include section.html %}
 ## Combined Program Students
 
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="group: active, role: combined" %}
 
----
-
-## Master's Students
 
 {% include section.html %}
+## Master's Students
+
 {% include list.html data="members" component="portrait" filters="group: active, role: master" %}

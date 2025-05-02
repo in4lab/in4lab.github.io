@@ -39,8 +39,6 @@ Our lab is situated on the **5th Floor** of the **Engineering Building 2**, in *
 For consultations or meetings, the professor's office is located on the **4th Floor** of the **Research & Business Center**, in **Room 85489**.
 
 <div style="margin-top: 20px; text-align: center;">
-  <strong>Visit us and explore cutting-edge research in biomedical and information security!</strong>
-</div>
   <iframe 
     width="100%" 
     height="600" 
@@ -52,6 +50,7 @@ For consultations or meetings, the professor's office is located on the **4th Fl
     <a href="https://www.gps.ie/collections/personal-trackers/">gps trackers</a>
   </iframe>
 </div>
+
 
 ---
 

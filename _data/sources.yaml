@@ -18,6 +18,11 @@
   buttons:
   - type: pdf
     link: pdf/FiSC_A_Novel_Approach_for_Fitzpatrick_Scale-Based_Skin_Analyzers_Image_Classification (1).pdf
+- id: doi:10.3390/diagnostics14212385
+  image: 'images/thumbnails/Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment.png'
+  buttons:
+  - type: pdf
+    link: pdf/Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment.pdf
 - id: doi:10.3390/app13063937
   image: ''
   buttons:

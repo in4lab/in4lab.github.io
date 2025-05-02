@@ -34,8 +34,6 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 
 {% include section.html %}
 
-# Principal Investigator
-
 {% include list.html data="members" component="portrait" filters="group: active, role: pi" %}
 
 

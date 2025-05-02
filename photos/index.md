@@ -1,5 +1,5 @@
 ---
-title: Team photos
+title: Gallery
 nav:
   order: 7
   tooltip: Lab news and updates

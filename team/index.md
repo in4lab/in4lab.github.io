@@ -53,4 +53,8 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 <br>
 {% include list.html data="members" component="portrait" filters="group: active, role: master" %}
 
+# {% include icon.html icon="fa-solid fa-users" %}Interns
+
+{% include list.html data="members" component="portrait" filters="group: active, role: intern" %}
+
 {% include section.html %}

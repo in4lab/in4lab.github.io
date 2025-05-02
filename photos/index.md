@@ -1,5 +1,8 @@
 ---
 title: Team photos
+nav:
+  order: 7
+  tooltip: Lab news and updates
 ---
 {% include breadcrumbs.html %}
 

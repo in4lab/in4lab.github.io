@@ -5,11 +5,37 @@ nav:
   tooltip: Meet the team
 ---
 
-# {% include icon.html icon="fa-solid fa-user-secret" %}Principal Investigator
+{% include section.html %}
+
+# Quick Links
+
+{%
+  include button.html
+  icon="fa-solid fa-people-group"
+  text="Alumni"
+  link="/team/alumni"
+%}
+{%
+  include button.html
+  icon="fa-solid fa-people-group"
+  text="Collaborators"
+  link="/collaborators"
+%}
+{%
+  include button.html
+  icon="fa-solid fa-door-open"
+  text="Join us"
+  link="/team/join"
+%}
+
+
 
 Our lab is made up of a talented mix of graduate students, postdoctoral researchers, programmers, and staff, and their backgrounds range from pure computer science to experimental biology. If you're interested in joining this diverse and dynamic team, please reach out!
 
 {% include section.html %}
+
+# Principal Investigator
+
 {% include list.html data="members" component="portrait" filters="group: active, role: pi" %}
 
 
@@ -30,30 +56,3 @@ Our lab is made up of a talented mix of graduate students, postdoctoral research
 {% include list.html data="members" component="portrait" filters="group: active, role: master" %}
 
 {% include section.html %}
-
-# Quick Links
-
-{%
-  include button.html
-  icon="fa-solid fa-image"
-  text="Photos"
-  link="/team/photos"
-%}
-{%
-  include button.html
-  icon="fa-solid fa-people-group"
-  text="Alumni"
-  link="/team/alumni"
-%}
-{%
-  include button.html
-  icon="fa-solid fa-people-group"
-  text="Collaborators"
-  link="/collaborators"
-%}
-{%
-  include button.html
-  icon="fa-solid fa-door-open"
-  text="Join us"
-  link="/team/join"
-%}

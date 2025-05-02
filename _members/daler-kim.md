@@ -1,6 +1,6 @@
 ---
 name: Daler Kim
-image: images/daler-kim-photo.jpg
+image: images/daler-kim.jpeg
 role: intern
 group: active
 links:

@@ -1,6 +1,6 @@
 ---
 name: Min Ho Sung
-image: 
+image: images/minho-sung.jpeg
 role: intern
 group: active
 links:

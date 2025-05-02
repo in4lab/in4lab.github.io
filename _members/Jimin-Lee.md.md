@@ -1,6 +1,6 @@
 ---
 name: Jimin Lee
-image: images/Jimin-Lee.jpeg
+image: images/jimin-lee.jpeg
 role: intern
 group: active
 links:

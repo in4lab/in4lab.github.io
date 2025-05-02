@@ -22,4 +22,4 @@ Sungkyunkwan University (SKKU) – Bachelor’s Student in Computer Science and 
 {% include section.html %}
 ## Publications
 
-{% include list.html data="citations" component="citation" filters="abdenour-soubih-list: true" style="rich" %}
+{% include list.html data="citations" component="citation" filters="aJimin-Lee-list: true" style="rich" %}

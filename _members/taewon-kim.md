@@ -4,7 +4,7 @@ image: images/taewon-kim.jpg
 role: intern
 group: active
 links:
-   linkedin: %ED%83%9C%EC%9B%90-%EA%B9%80-55105b340
+   linkedin:
    github: chris40461
    home-page: https://velog.io/@chris40461/posts
    email: chris40461@gmail.com

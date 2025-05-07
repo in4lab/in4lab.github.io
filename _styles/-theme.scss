@@ -1,54 +1,59 @@
 ---
 ---
 
-// colors
+
+// Modernized Theme for Research CS Lab
+
+// Light Mode
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
-  --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --primary: #0066ff;               /* Vibrant, trustworthy blue */
+  --secondary: #e0f2ff;             /* Very light blue for soft highlights */
+  --text: #1a1a1a;                  /* Darker text for readability */
+  --background: #f9fafb;            /* Slightly off-white for comfort */
+  --background-alt: #ffffff;        /* Pure white for contrast areas */
+  --light-gray: #d1d5db;            /* Tailwind-style soft gray */
+  --gray: #6b7280;
+  --dark-gray: #374151;
+  --overlay: rgba(0, 0, 0, 0.05);   /* Softer overlay */
 }
+
+// Dark Mode
 [data-dark="true"] {
-  --primary: #0795d9;
-  --secondary: #075985;
-  --text: #ffffff;
-  --background: #181818;
-  --background-alt: #1c1c1c;
-  --light-gray: #404040;
-  --gray: #808080;
-  --dark-gray: #b0b0b0;
-  --overlay: #ffffff10;
+  --primary: #3abff8;              /* Sky blue for highlight in dark */
+  --secondary: #0f172a;            /* Near black-blue for depth */
+  --text: #f1f5f9;                 /* Light slate for less strain */
+  --background: #0f1117;           /* Deep dark blue-black */
+  --background-alt: #1a1d23;       /* Slight contrast */
+  --light-gray: #4b5563;
+  --gray: #9ca3af;
+  --dark-gray: #d1d5db;
+  --overlay: rgba(255, 255, 255, 0.05);
 }
 
 :root {
-  // font families
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
-  --code: "Roboto Mono", monospace;
+  // Typography
+  --title: "Inter", sans-serif;
+  --heading: "Inter", sans-serif;
+  --body: "Inter", sans-serif;
+  --code: "JetBrains Mono", monospace;
 
-  // font sizes
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
+  // Font Sizes
+  --large: 1.125rem;    /* 18px */
+  --xl: 1.5rem;         /* 24px */
+  --xxl: 2rem;          /* 32px */
 
-  // font weights
-  --thin: 200;
+  // Font Weights
+  --thin: 300;
   --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
+  --semi-bold: 600;
+  --bold: 700;
 
-  // text line spacing
-  --spacing: 2;
-  --compact: 1.5;
+  // Line Spacing
+  --spacing: 1.75;
+  --compact: 1.4;
 
-  // effects
-  --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
-  --transition: 0.2s ease;
+  // Effects
+  --rounded: 8px;
+  --shadow: 0 4px 20px var(--overlay);
+  --transition: all 0.25s ease-in-out;
 }

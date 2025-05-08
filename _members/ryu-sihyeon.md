@@ -1,8 +1,8 @@
 ---
 name: Ryu Sihyeon 
 image: mages/ryu-sihyeon.jpeg 
-role:  
-group:  
+role: intern
+group: active
 links: 
    github: sean429 
    email: sean010429@gmail.com

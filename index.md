@@ -1,11 +1,19 @@
 ---
 ---
 
-# Welcome to InfoLab!
-
-InfoLab is a research group pushing the boundaries of **security** and **machine learning**, with a particular focus on their applications in **bioinformatics** and **biomedical discovery**. We specialize in both developing and applying state-of-the-art computational tools to solve complex, real-world problems.
-We are part of the [College of Computing and Informatics](https://sw.skku.edu/eng_sw/index.do) at [Sungkyunkwan University (SKKU)](https://www.skku.edu/eng/).
-
+<section class="hero">
+  <div class="container">
+    <h1>Welcome to InfoLab!</h1>
+    <p class="lead">
+      InfoLab is a research group pushing the boundaries of <strong>security</strong> and <strong>machine learning</strong>, 
+      especially in <strong>bioinformatics</strong> and <strong>biomedical discovery</strong>.
+    </p>
+    <p>Part of the <a href="https://sw.skku.edu/eng_sw/index.do">College of Computing and Informatics</a> at 
+      <a href="https://www.skku.edu/eng/">Sungkyunkwan University (SKKU)</a>.
+    </p>
+    <a href="#pubs" class="button primary">Explore Our Work</a>
+  </div>
+</section>
 
 {% include section.html %}
 

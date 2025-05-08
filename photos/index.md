@@ -16,6 +16,14 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
+  image="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.23.56 PM.jpeg"
+  link="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.23.56 PM.jpeg"
+  caption="ITRC 2025"
+  width="300px"
+%}
+
+{%
+  include figure.html
   image="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.52 PM.jpeg"
   link="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.52 PM.jpeg"
   caption="ITRC 2025"
@@ -26,15 +34,6 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
   include figure.html
   image="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.33 PM.jpeg"
   link="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.33 PM.jpeg"
-  caption="ITRC 2025"
-  width="300px"
-%}
-
-
-{%
-  include figure.html
-  image="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.47 PM.jpeg"
-  link="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.47 PM.jpeg"
   caption="ITRC 2025"
   width="300px"
 %}
@@ -81,14 +80,6 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
-  image="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.23.56 PM.jpeg"
-  link="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.23.56 PM.jpeg"
-  caption="ITRC 2025"
-  width="300px"
-%}
-
-{%
-  include figure.html
   image="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.24.34 PM.jpeg"
   link="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.24.34 PM.jpeg"
   caption="ITRC 2025"
@@ -99,6 +90,14 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
   include figure.html
   image="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.24.29 PM.jpeg"
   link="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.24.29 PM.jpeg"
+  caption="ITRC 2025"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.47 PM.jpeg"
+  link="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.47 PM.jpeg"
   caption="ITRC 2025"
   width="300px"
 %}
@@ -121,24 +120,24 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
-  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship).JPG"
-  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship).JPG"
+  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship).jpeg"
+  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship).jpeg"
   caption="Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)"
   width="300px"
 %}
 
 {%
   include figure.html
-  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)1.JPG"
-  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)1.JPG"
+  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)1.jpeg"
+  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)1.jpeg"
   caption="Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)"
   width="300px"
 %}
 
 {%
   include figure.html
-  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)2.JPG"
-  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)2.JPG"
+  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)2.jpeg"
+  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)2.jpeg"
   caption="Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)"
   width="300px"
 %}

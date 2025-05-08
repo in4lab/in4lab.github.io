@@ -1,10 +1,12 @@
 section {
-  padding: 40px max(40px, (100% - 1000px) / 2);
+  padding: clamp(1.5rem, 4vw, 40px) max(40px, (100% - 1000px) / 2);
   transition: background var(--transition), color var(--transition);
+  border-radius: var(--rounded);
+  scroll-margin-top: 4rem;
 }
 
 section[data-size=wide] {
-  padding: 40px;
+  padding: clamp(1.5rem, 4vw, 40px);
 }
 
 section[data-size=full] {
@@ -30,6 +32,11 @@ main > section:nth-of-type(odd) {
 
 main > section:nth-of-type(even) {
   background: var(--background-alt);
+}
+
+/* Optional: subtle separator between sections */
+section + section {
+  border-top: 1px solid var(--light-gray);
 }
 
 /*# sourceMappingURL=section.css.map */

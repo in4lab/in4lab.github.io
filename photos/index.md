@@ -121,6 +121,30 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
+  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship).JPG"
+  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship).JPG"
+  caption="Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)1.JPG"
+  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)1.JPG"
+  caption="Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)2.JPG"
+  link="images/2025 Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)2.JPG"
+  caption="Sungkyunkwan Professors’ Night Gathering (celebrate academic fellowship)"
+  width="300px"
+%}
+
+{%
+  include figure.html
   image="images/gallery/AR407105.jpg"
   link="images/gallery/AR407105.jpg"
   caption="Ar407105"

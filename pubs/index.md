@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-newspaper" %}Publications
 
+{% include section.html %}
+
 <center>
 <!-- Generated from https://shiny.rcg.sfu.ca/u/rdmorin/pubmedcloud3/ -->
 <img src="../images/wordcloud.png" alt="A word cloud of publication titles" style="width:600px"/>

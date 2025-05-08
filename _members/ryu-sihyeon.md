@@ -1,6 +1,6 @@
 ---
 name: Ryu Sihyeon 
-image: mages/ryu-sihyeon.jpeg 
+image: images/ryu-sihyeon.jpeg
 role: intern
 group: active
 links: 

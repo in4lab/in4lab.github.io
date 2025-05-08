@@ -122,17 +122,8 @@ Our team includes graduate students, postdoctoral researchers, programmers, and 
 #### Our funders
 
 
-{% capture col1 %}
-<img src="images/skku-logo.png">
-{% endcapture %}
-
-{% capture col2 %}
-<img src="images/msit-logo.png">
-{% endcapture %}
-
-{% capture col3 %}
-<img src="images/nrf-logo2.png">
-{% endcapture %}
-
-
-{% include cols.html col1=col1 col2=col2 col3=col3%}
+<div class="funders-grid">
+  <div class="funder-card"><img src="images/skku-logo.png" alt="SKKU"></div>
+  <div class="funder-card"><img src="images/msit-logo.png" alt="MSIT"></div>
+  <div class="funder-card"><img src="images/nrf-logo2.png" alt="NRF"></div>
+</div>

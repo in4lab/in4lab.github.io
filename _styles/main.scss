@@ -6,3 +6,20 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+
+.funders-grid {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.funder-card {
+  background: var(--background-alt);
+  padding: 1rem;
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+}
+.funder-card:hover {
+  transform: scale(1.05);
+}

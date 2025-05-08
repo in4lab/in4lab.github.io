@@ -25,15 +25,23 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
-  gap: 0.25rem;
+}
+
+.news-title {
+  font-weight: bold;
+  font-size: 16px;
+  text-align: left;
+}
+
+.news-date {
+  font-size: 14px;
+  color: gray;
 }
 
 .news-description {
-  margin-top: 0.5rem;
-  font-size: 1rem;
-  color: var(--dark-gray);
-  line-height: 1.5;
+  margin-top: 5px;
+  font-size: 15px;
+  text-align: left;
 }
 
 /* Responsive Design for Mobile */
@@ -43,7 +51,7 @@
     align-items: flex-start;
   }
   .news-date {
-    margin-top: 0.25rem;
+    margin-top: 5px;
   }
 }
 

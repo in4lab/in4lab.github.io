@@ -77,10 +77,10 @@
   shaker-el-sappagh-list: true
   plugin: sources.py
   file: sources.yaml
-  image: ''
+  image: images/thumbnails/Alzheimers disease diagnosis in the metaverse.jpg
   buttons:
   - type: pdf
-    link: pdf/app13063937.pdf
+    link: pdf/Alzheimers disease diagnosis in the metaverse.pdf
 - id: doi:10.3390/diagnostics13010162
   title: A Holistic Approach to Identify and Classify COVID-19 from Chest Radiographs,
     ECG, and CT-Scan Images Using ShuffleNet Convolutional Neural Network

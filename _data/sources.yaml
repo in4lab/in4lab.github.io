@@ -33,6 +33,11 @@
   buttons:
   - type: pdf
     link: pdf/Alzheimers disease diagnosis in the metaverse.pdf
+- id: doi:10.3390/info15100583
+  image: 'images/thumbnails/Smart Collaborative Intrusion Detection System for Securing Vehicular Networks Using Ensemble Machine Learning Model.webp'
+  buttons:
+  - type: pdf
+    link: pdf/Smart Collaborative Intrusion Detection System for Securing Vehicular Networks Using Ensemble Machine Learning Model.pdf
 - id: doi:10.3390/diagnostics13010162
   image: ''
   buttons:

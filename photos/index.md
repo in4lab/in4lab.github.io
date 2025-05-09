@@ -64,14 +64,6 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
-  image="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.24.32 PM.jpeg"
-  link="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.24.32 PM.jpeg"
-  caption="ITRC 2025"
-  width="300px"
-%}
-
-{%
-  include figure.html
   image="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.51 PM.jpeg"
   link="images/gallery/2025/WhatsApp Image 2025-04-25 at 6.48.51 PM.jpeg"
   caption="ITRC 2025"
@@ -160,16 +152,8 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
-  image="images/fall.jpeg"
-  link="iimages/fall.jpeg"
-  caption="Fall in skku"
-  width="300px"
-%}
-
-{%
-  include figure.html
   image="images/fall2.jpeg"
-  link="iimages/fall2.jpeg"
+  link="images/fall2.jpeg"
   caption="Fall in skku"
   width="300px"
 %}
@@ -208,7 +192,7 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
-  image="iimages/marathon.jpeg"
+  image="images/marathon.jpeg"
   link="images/marathon.jpeg"
   caption="Kyunggi Marathon"
   width="300px"
@@ -227,14 +211,6 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
   image="images/skku-old-vilage.jpeg"
   link="images/skku-old-vilage.jpeg"
   caption="Visiting Seoul campus"
-  width="300px"
-%}
-
-{%
-  include figure.html
-  image="images/triathlon.jpeg"
-  link="images/triathlon.jpeg"
-  caption="International Triathlon"
   width="300px"
 %}
 

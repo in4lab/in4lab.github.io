@@ -114,7 +114,7 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
   include figure.html
   image="images/gallery/amir-graduation-2.jpeg"
   link="images/gallery/amir-graduation-2.jpeg"
-  caption="Amir-Graduation-2"
+  caption="Amir-Graduation"
   width="300px"
 %}
 
@@ -152,9 +152,105 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
-  image="images/gallery/AR407105.jpg"
-  link="images/gallery/AR407105.jpg"
-  caption="Ar407105"
+  image="images/abdenour-cycling.jpeg"
+  link="images/abdenour-cycling.jpeg"
+  caption="Abdenour cycling"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/fall.jpeg"
+  link="iimages/fall.jpeg"
+  caption="Fall in skku"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/fall2.jpeg"
+  link="iimages/fall2.jpeg"
+  caption="Fall in skku"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/hiking.jpeg"
+  link="images/hiking.jpeg"
+  caption="Hiking"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/hiking2.jpeg"
+  link="images/hiking2.jpeg"
+  caption="Hiking"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/historical meusieum.jpeg"
+  link="images/historical meusieum.jpeg"
+  caption="Musieum visit"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/lunch2.jpeg"
+  link="images/lunch2.jpeg"
+  caption="Lunch"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="iimages/marathon.jpeg"
+  link="images/marathon.jpeg"
+  caption="Kyunggi Marathon"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/presentation.jpeg"
+  link="images/presentation.jpeg"
+  caption="Team"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/skku-old-vilage.jpeg"
+  link="images/skku-old-vilage.jpeg"
+  caption="Visiting Seoul campus"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/triathlon.jpeg"
+  link="images/triathlon.jpeg"
+  caption="International Triathlon"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/university festival.jpeg"
+  link="images/university festival.jpeg"
+  caption="University festival"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/with-korean-teacher.jpeg"
+  link="images/with-korean-teacher.jpeg"
+  caption=""
   width="300px"
 %}
 

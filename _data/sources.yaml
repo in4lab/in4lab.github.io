@@ -28,6 +28,11 @@
   buttons:
   - type: pdf
     link: pdf/app13063937.pdf
+- id: doi:10.3390/app13063937
+  image: 'images/thumbnails/Alzheimers disease diagnosis in the metaverse.jpg'
+  buttons:
+  - type: pdf
+    link: pdf/Alzheimers disease diagnosis in the metaverse.pdf
 - id: doi:10.3390/diagnostics13010162
   image: ''
   buttons:

@@ -38,6 +38,11 @@
   buttons:
   - type: pdf
     link: pdf/Smart Collaborative Intrusion Detection System for Securing Vehicular Networks Using Ensemble Machine Learning Model.pdf
+- id: doi:10.1109/TDSC.2023.3341090
+  image: 'images/thumbnails/abuhm1-3341090-small.gif'
+  buttons:
+  - type: pdf
+    link: pdf/Hardening_Interpretable_Deep_Learning_Systems_Investigating_Adversarial_Threats_and_Defenses.pdf
 - id: doi:10.3390/diagnostics13010162
   image: ''
   buttons:

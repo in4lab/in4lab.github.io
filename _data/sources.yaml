@@ -48,6 +48,11 @@
   buttons:
   - type: pdf
     link: pdf/Hardening_Interpretable_Deep_Learning_Systems_Investigating_Adversarial_Threats_and_Defenses.pdf
+- id: doi:10.1109/TIFS.2024.3407652
+  image: 'images/thumbnails/SingleADV: Single-Class Target-Specific Attack Against Interpretable Deep Learning Systems.png'
+  buttons:
+  - type: pdf
+    link: pdf/SingleADV_Single-Class_Target-Specific_Attack_Against_Interpretable_Deep_Learning_Systems.pdf
 - id: doi:10.3390/diagnostics13010162
   image: ''
   buttons:

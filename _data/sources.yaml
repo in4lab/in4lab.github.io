@@ -23,8 +23,13 @@
   buttons:
   - type: pdf
     link: pdf/Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment.pdf
+- id: doi:10.1109/TDSC.2023.3341090
+  image: 'images/thumbnails/Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses.png'
+  buttons:
+  - type: pdf
+    link: pdf/Hardening_Interpretable_Deep_Learning_Systems_Investigating_Adversarial_Threats_and_Defenses.pdf
 - id: doi:10.3390/app13063937
-  image: ''
+  image: 'https://www.mdpi.com/applsci/applsci-13-03937/article_deploy/html/images/applsci-13-03937-g002.png'
   buttons:
   - type: pdf
     link: pdf/app13063937.pdf
@@ -39,7 +44,7 @@
   - type: pdf
     link: pdf/Smart Collaborative Intrusion Detection System for Securing Vehicular Networks Using Ensemble Machine Learning Model.pdf
 - id: doi:10.1109/TDSC.2023.3341090
-  image: 'images/thumbnails/abuhm1-3341090-small.gif'
+  image: 'images/thumbnails/Hardening Interpretable Deep Learning Systems: Investigating Adversarial Threats and Defenses.png'
   buttons:
   - type: pdf
     link: pdf/Hardening_Interpretable_Deep_Learning_Systems_Investigating_Adversarial_Threats_and_Defenses.pdf

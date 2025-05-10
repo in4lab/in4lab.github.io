@@ -83,7 +83,7 @@
   shaker-el-sappagh-list: true
   plugin: sources.py
   file: sources.yaml
-  image: ''
+  image: https://www.mdpi.com/applsci/applsci-13-03937/article_deploy/html/images/applsci-13-03937-g002.png
   buttons:
   - type: pdf
     link: pdf/app13063937.pdf
@@ -1219,7 +1219,8 @@
   tamer-abuhmed-list: true
   plugin: sources.py
   file: sources.yaml
-  image: images/thumbnails/abuhm1-3341090-small.gif
+  image: 'images/thumbnails/Hardening Interpretable Deep Learning Systems: Investigating
+    Adversarial Threats and Defenses.png'
   buttons:
   - type: pdf
     link: pdf/Hardening_Interpretable_Deep_Learning_Systems_Investigating_Adversarial_Threats_and_Defenses.pdf

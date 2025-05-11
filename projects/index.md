@@ -22,21 +22,21 @@ Explore the sections below to learn more about our ongoing and completed project
   <div style="flex: 0 0 48%; padding: 10px;">
     {% include figure.html
       image="images/security.png"
-      caption="<span style='font-weight: bold; font-size: 1.2em;'>Security and Behavioral AI Projects</span>"
+      caption="<a href='projects/security' style='font-weight: bold; font-size: 1.2em; text-decoration: none;'>Security and Behavioral AI Projects</a>"
       link="projects/security"
       width="100%"
-      hight="95%"
+      height="95%"
     %}
-  </div>
-  
-  <div style="flex: 0 0 48%; padding: 10px;">
+    </div>
+    
+    <div style="flex: 0 0 48%; padding: 10px;">
     {% include figure.html
       image="images/biomedical_discovery_03.png"
-      caption="<span style='font-weight: bold; font-size: 1.2em;'>Biomedical AI Projects</span>"
+      caption="<a href='projects/medical' style='font-weight: bold; font-size: 1.2em; text-decoration: none;'>Biomedical AI Projects</a>"
       link="projects/medical"
       width="100%"
     %}
-  </div>
+    </div>
 
 </div>
 

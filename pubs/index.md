@@ -4,12 +4,7 @@ nav:
   order: 3
   tooltip: Published works
 ---
-{%
-  include button.html
-  icon="fa-solid fa-door-open"
-  text="Upcoming Conferences and Journals"
-  link="/pubs/upcoming"
-%}
+
 # {% include icon.html icon="fa-regular fa-newspaper" %}Publications
 
 <center>

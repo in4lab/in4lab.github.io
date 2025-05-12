@@ -42,3 +42,20 @@ For meetings or consultations, visit the professor’s office on the **4th Floor
 </div>
 
 > Come visit us and explore world-class research in **biomedical** and **information security**!
+
+---
+
+## 🗺️ Campus Map
+
+For a detailed view of the campus, you can explore the official **Sungkyunkwan University (SKKU)** campus map below:
+
+<div style="margin: 2em 0; text-align: center;">
+  <iframe 
+    width="100%" 
+    height="500" 
+    frameborder="0" 
+    style="border:0; border-radius: 10px;" 
+    src="https://www.skku.edu/eng/About/campusinfo/CampusMap.do?campusCd=2&srSearchValue=#" 
+    allowfullscreen>
+  </iframe>
+</div>

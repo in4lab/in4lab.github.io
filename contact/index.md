@@ -1,4 +1,5 @@
 ---
+---
 title: Contact
 nav:
   order: 8
@@ -36,7 +37,7 @@ For meetings or consultations, visit the professor’s office on the **4th Floor
     height="500" 
     frameborder="0" 
     style="border:0; border-radius: 10px;" 
-    src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Hwasan-ro,%20Yulcheon-dong,%20Jangan-gu,%20Suwon-si,%20Gyeonggi-do+(Infolab)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" 
+    src="https://maps.google.com/maps?q=Hwasan-ro,%20Yulcheon-dong,%20Jangan-gu,%20Suwon-si,%20Gyeonggi-do+(Infolab)&t=&z=16&ie=UTF8&iwloc=B&output=embed" 
     allowfullscreen>
   </iframe>
 </div>
@@ -55,7 +56,7 @@ For a detailed view of the campus, you can explore the official **Sungkyunkwan U
     height="500" 
     frameborder="0" 
     style="border:0; border-radius: 10px;" 
-    src="https://www.skku.edu/eng/About/campusinfo/CampusMap.do?campusCd=2&srSearchValue=#" 
+    src="https://www.skku.edu/eng/About/campusinfo/CampusMap.do?campusCd=2&srSearchValue=" 
     allowfullscreen>
   </iframe>
 </div>

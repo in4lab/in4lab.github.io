@@ -1,8 +1,5 @@
 ---
 title: Code of Conduct
-nav:
-  order: 6
-  tooltip: Code of Conduct
 ---
 
 # {% include icon.html icon="fa-solid fa-star" %}Code of Conduct

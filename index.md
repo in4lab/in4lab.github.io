@@ -1,9 +1,9 @@
 ---
 ---
-<section class="hero" style="position: relative; background-image: url('images/hero.jpg'); background-size: cover; background-position: center; width: 100%; height: 100vh; overflow: hidden;">
+<section class="hero" style="position: relative; background-image: url('images/hero.jpg'); background-size: cover; background-position: center; width: 100vw; height: 100vh; overflow: hidden; margin: 0; padding: 0;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
   
-  <div class="container" style="position: relative; z-index: 1; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: #fff; padding: 0 20px;">
+  <div class="container" style="position: relative; z-index: 1; width: 100%; max-width: none; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: #fff; padding: 0 20px;">
     <h1 style="font-size: 3.5rem; margin-bottom: 20px; font-weight: 700;">Welcome to InfoLab!</h1>
     <p class="lead" style="font-size: 1.3rem; max-width: 800px; margin-bottom: 20px;">
       InfoLab is a research group pushing the boundaries of <strong>security</strong> and <strong>machine learning</strong>, 
@@ -40,6 +40,7 @@
     }
   }
 </style>
+
 
 
 {% include section.html %}

@@ -1,5 +1,5 @@
 ---
-title: Upcoming Conferences and Journals
+title: Upcoming
 nav:
   order: 9
   tooltip: Stay updated with upcoming events

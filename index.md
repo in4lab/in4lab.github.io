@@ -1,5 +1,20 @@
 ---
+title: Home
+carousels:
+  - images: 
+    - image: /images/hero.jpg
+    - image: /images/hero.jpg
+    - image: /images/hero.jpg
+    - image: /images/hero.jpg
+    - image: /images/hero.jpg
 ---
+
+
+{% include section.html full=true %}
+
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+
+
 <section class="hero" style="position: relative; background-image: url('images/hero.jpg'); background-size: cover; background-position: center; width: 100vw; height: 100vh; overflow: hidden; margin: 0; padding: 0;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
   

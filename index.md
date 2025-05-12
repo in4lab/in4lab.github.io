@@ -1,7 +1,6 @@
 ---
 ---
-
-<section class="hero">
+<section class="hero" style="background-image: url('images/hero.webp'); background-size: cover; background-position: center;">
   <div class="container">
     <h1>Welcome to InfoLab!</h1>
     <p class="lead">
@@ -11,7 +10,7 @@
     <p>Part of the <a href="https://sw.skku.edu/eng_sw/index.do">College of Computing and Informatics</a> at 
       <a href="https://www.skku.edu/eng/">Sungkyunkwan University (SKKU)</a>.
     </p>
-    <a href="#pubs" class="button primary">Explore Our Work</a>
+    <a href="#our-projects" class="button primary">Explore Our Work</a>
   </div>
 </section>
 

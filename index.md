@@ -1,6 +1,6 @@
 ---
 ---
-<section class="hero" style="background-image: url('images/hero.webp'); background-size: cover; background-position: center; width: 100vw; height: 100vh; color: white; display: flex; align-items: center; justify-content: center; text-align: center;">
+<section class="hero" style="background-image: url('images/hero.jpeg'); background-size: cover; background-position: center; width: 100vw; height: 100vh; color: white; display: flex; align-items: center; justify-content: center; text-align: center;">
   <div class="container">
     <h1>Welcome to InfoLab!</h1>
     <p class="lead">

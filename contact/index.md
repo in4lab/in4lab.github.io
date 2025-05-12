@@ -36,7 +36,7 @@ For meetings or consultations, visit the professor’s office on the **4th Floor
     height="500" 
     frameborder="0" 
     style="border:0; border-radius: 10px;" 
-    src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Hwasan-ro,%20Yulcheon-dong,%20Jangan-gu,%20Suwon-si,%20Gyeonggi-do+(Infolab)&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" 
+    src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Hwasan-ro,%20Yulcheon-dong,%20Jangan-gu,%20Suwon-si,%20Gyeonggi-do+(Infolab)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" 
     allowfullscreen>
   </iframe>
 </div>

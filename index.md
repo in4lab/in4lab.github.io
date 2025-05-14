@@ -3,7 +3,7 @@ title: Home
 ---
 
 
-{% include section.html full=true %}
+{% include section.html %}
 
 
 <section class="hero" style="position: relative; background-image: url('images/hero.jpg'); background-size: cover; background-position: center; width: 100vw; height: 100vh; overflow: hidden; margin: 0; padding: 0;">

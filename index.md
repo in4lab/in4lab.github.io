@@ -2,7 +2,7 @@
 title: Home
 ---
 
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); background-image: url('images/hero.jpg');"></div>
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); background-image: url('images/hero.jpg'); background-size: cover;"></div>
   
   <div class="container" style="position: relative; z-index: 1; width: 100%; max-width: none; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: #fff; padding: 0 20px;">
     <h1 style="font-size: 3.5rem; margin-bottom: 20px; font-weight: 700;">Welcome to InfoLab!</h1>
@@ -141,7 +141,7 @@ Our team includes graduate students, postdoctoral researchers, programmers, and 
 
 <center>
 <!-- Generated from https://shiny.rcg.sfu.ca/u/rdmorin/pubmedcloud3/ -->
-<img src="../images/lunch.jpeg" alt="A word cloud of publication titles" style="width:100%"/>
+<img src="../images/team2.jpeg" alt="A word cloud of publication titles" style="width:100%"/>
 </center>
 {%
   include button.html

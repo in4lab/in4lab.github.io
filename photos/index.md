@@ -294,6 +294,30 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
   width="300px"
 %}
 
+{%
+  include figure.html
+  image="images/gallery/sun1.jpg"
+  link="images/gallery/sun1.jpg"
+  caption=""
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/gallery/1.jpg"
+  link="images/gallery/1.jpg"
+  caption=""
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/gallery/4-1.jpg"
+  link="images/gallery/4-1.jpg"
+  caption=""
+  width="300px"
+%}
+
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}

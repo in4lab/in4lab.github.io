@@ -142,7 +142,7 @@ Our team includes graduate students, postdoctoral researchers, programmers, and 
 
 <center>
 <!-- Generated from https://shiny.rcg.sfu.ca/u/rdmorin/pubmedcloud3/ -->
-<img src="../images/gallery/amir-graduation.jpeg" alt="A word cloud of publication titles" style="width:100%"/>
+<img src="../images/lunch.jpeg" alt="A word cloud of publication titles" style="width:100%"/>
 </center>
 {%
   include button.html

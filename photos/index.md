@@ -26,7 +26,7 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
   include figure.html
   image="images/lunch.jpeg"
   link="images/lunch.jpeg"
-  caption="ITRC 2025"
+  caption="Lunch"
   width="300px"
 %}
 

@@ -14,5 +14,5 @@ nav:
 <!--{% include list.html data="members" component="portrait" filters="group: collaborators, role: pi" %}
 <br/>-->
 
-{% include colab_list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" sort %}
+{% include list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" sort %}
 

@@ -1,8 +1,4 @@
 ---
-title: Upcoming events
-nav:
-  order: 9
-  tooltip: Stay updated with upcoming events
 ---
 
 {% include breadcrumbs.html %}

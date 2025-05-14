@@ -4,6 +4,7 @@ image: images/farman-ali.png
 role: assistant professor
 group: collaborators
 aliases:
+rank: 2
 links:
    orcid: 
    linkedin: 

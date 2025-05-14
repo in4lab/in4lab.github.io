@@ -16,6 +16,14 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
+  image="images/gallery/2025/teachers_day.jpeg"
+  link="images/gallery/2025/teachers_day.jpeg"
+  caption="From teachers day"
+  width="300px"
+%}
+
+{%
+  include figure.html
   image="images/lunch.jpeg"
   link="images/lunch.jpeg"
   caption="ITRC 2025"

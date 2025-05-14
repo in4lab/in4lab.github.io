@@ -4,7 +4,6 @@ image: https://dash-lab.github.io/img/SimonWoo_new.jpg
 role: assistant professor
 group: collaborators
 aliases:
-rank: 3 
 links:
    orcid: 
    linkedin: 

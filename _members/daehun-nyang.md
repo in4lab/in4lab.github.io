@@ -3,7 +3,6 @@ name: DaeHun Nyang
 image: https://ieeesystemscouncil.org/files/ieeesyscouncil/styles/responsive_4_5_760w/public/images/contacts/DaeHun%2520Nyang.png?h=debf9062&itok=EGBiFwjk
 role: professor
 group: collaborators
-rank: 1
 aliases:
 links:
    orcid: 

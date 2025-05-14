@@ -1,6 +1,6 @@
 ---
 name: Shatha Al-duhayan
-image: 'images/avatar.png'
+image: 'images/shatha.jpeg'
 role: master
 group: active
 links:

@@ -5,6 +5,13 @@ nav:
   tooltip: Published works
 ---
 
+{%
+  include button.html
+  icon="fa-solid fa-calendar-alt"
+  text="Upcoming Conferences and Journals"
+  link="upcoming"
+%}
+
 # {% include icon.html icon="fa-regular fa-newspaper" %}Publications
 
 <center>

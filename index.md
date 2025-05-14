@@ -2,49 +2,64 @@
 title: Home
 ---
 
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgb(8 68 125 / 99%); background-size: cover;"></div>
-  
-  <div class="container" style="position: relative; z-index: 1; width: 100%; max-width: none; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; color: #fff; padding: 0 20px;">
-    <h1 style="font-size: 3.5rem; margin-bottom: 20px; font-weight: 700;">Welcome to InfoLab!</h1>
-    <p class="lead" style="font-size: 1.3rem; max-width: 800px; margin-bottom: 20px;">
-      InfoLab is a research group pushing the boundaries of <strong>security</strong> and <strong>machine learning</strong>, 
-      especially in <strong>bioinformatics</strong> and <strong>biomedical discovery</strong>.
-    </p>
-    <p style="font-size: 1rem; margin-bottom: 30px;">
-      Part of the 
-      <a href="https://sw.skku.edu/eng_sw/index.do" style="color: #fff; text-decoration: underline;">College of Computing and Informatics</a> at 
-      <a href="https://www.skku.edu/eng/" style="color: #fff; text-decoration: underline;">Sungkyunkwan University (SKKU)</a>.
-    </p>
-    <a href="#our-projects" class="button primary" style="background-color: transparent; color: white; border: 2px solid white; padding: 12px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; transition: background-color 0.3s, color 0.3s;">
-      Explore Our Work
-    </a>
+<!-- Hero Section -->
+<section id="hero" class="hero section dark-background">
+
+  <div id="hero-carousel" data-bs-interval="5000" class="container carousel carousel-fade" data-bs-ride="carousel">
+
+  <!-- Slide 1 -->
+  <div class="carousel-item active">
+    <div class="carousel-container">
+      <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Selecao</span></h2>
+      <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+      <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+    </div>
   </div>
 
+  <!-- Slide 2 -->
+  <div class="carousel-item">
+    <div class="carousel-container">
+      <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
+      <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+      <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+    </div>
+  </div>
 
-<style>
-  .hero {
-    width: 100%;
-    height: 100vh;
-    margin: 0;
-    padding: 0;
-    background-size: cover;
-    background-position: center;
-  }
+  <!-- Slide 3 -->
+  <div class="carousel-item">
+    <div class="carousel-container">
+      <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
+      <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+      <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+    </div>
+  </div>
 
-  .hero .container {
-    width: 100%;
-    max-width: none;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: #fff;
-    padding: 0 20px;
-  }
-</style>
+  <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+  </a>
 
+  <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
+    <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+  </a>
+
+  </div>
+
+  <svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+    <defs>
+      <path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"></path>
+    </defs>
+    <g class="wave1">
+      <use xlink:href="#wave-path" x="50" y="3"></use>
+    </g>
+    <g class="wave2">
+      <use xlink:href="#wave-path" x="50" y="0"></use>
+    </g>
+    <g class="wave3">
+      <use xlink:href="#wave-path" x="50" y="9"></use>
+    </g>
+  </svg>
+
+</section><!-- /Hero Section -->
 
 
 {% include section.html %}

@@ -5,6 +5,8 @@ nav:
   tooltip: Published works
 ---
 
+# Quick Links
+
 {%
   include button.html
   icon="fa-solid fa-calendar-alt"
@@ -12,12 +14,16 @@ nav:
   link="upcoming"
 %}
 
-# {% include icon.html icon="fa-regular fa-newspaper" %}Publications
-
 <center>
 <!-- Generated from https://shiny.rcg.sfu.ca/u/rdmorin/pubmedcloud3/ -->
 <img src="../images/wordcloud.png" alt="A word cloud of publication titles" style="width:600px"/>
 </center>
+
+# {% include icon.html icon="fa-regular fa-newspaper" %}Publications
+
+Explore our latest peer-reviewed articles, conference papers, and journal publications.
+
+
 
 {% include search-box.html %}
 

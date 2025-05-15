@@ -1,6 +1,6 @@
 ---
 name: Shwetarani
-image: images/avatar.png
+image: images/shweta.jpeg
 role: phd
 group: active
 links:

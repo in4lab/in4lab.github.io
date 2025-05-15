@@ -9,10 +9,10 @@ nav:
 
 Welcome to the project portfolio of **InfoLab** at **Sungkyunkwan University (SKKU)**. Our research lies at the intersection of **artificial intelligence**, **cybersecurity**, and **biomedical informatics**, with a focus on developing **robust**, **interpretable**, and **impactful** AI-driven solutions.
 
-We focus on two core domains:
+We focus on:
 
-- **Biomedical AI**: Multimodal, explainable models for **early disease detection**, **patient monitoring**, and **clinical outcome prediction**.
-- **Security & Behavioral AI**: Adversarially robust systems for **malware detection**, **continuous user authentication**, and **trustworthy decision-making** in high-stakes environments.
+- **Biomedical AI**: Explainable models for **disease detection**, **patient monitoring**, and **clinical predictions**.
+- **Security & Behavioral AI**: Robust systems for **malware detection**, **user authentication**, and **trustworthy decisions**.
 
 Explore the sections below to learn more about our ongoing and completed projects, key contributions, and their impact on science and society.
 

@@ -9,7 +9,7 @@ links:
    orcid: 
    linkedin: 
    github: 
-   google-scholar: https://scholar.google.co.kr/citations?user=jHamj0sAAAAJ&hl=en
+   google-scholar: jHamj0sAAAAJ&hl
    twitter: 
    facebook: 
    instagram: 

@@ -8,7 +8,7 @@ links:
    orcid: 
    linkedin: 
    github: 
-   google-scholar: https://scholar.google.com/citations?user=Eleytz0AAAAJ&hl=en
+   google-scholar: Eleytz0AAAAJ&hl
    twitter: 
    facebook: 
    instagram: 

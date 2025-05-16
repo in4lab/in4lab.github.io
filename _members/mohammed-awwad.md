@@ -12,7 +12,7 @@ links:
    email: mawwad@skku.edu
 ---
 
-Abdenour Soubih is a Master's student in Computer Science and Engineering at Sungkyunkwan University (SKKU), South Korea,
+Mohammed Awwad is a Master's student in Computer Science and Engineering at Sungkyunkwan University (SKKU), South Korea,
 
 
 {% include section.html %}

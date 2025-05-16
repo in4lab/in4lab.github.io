@@ -2,8 +2,7 @@
 name: Afsah Anwar
 image: https://cahsi.utep.edu/wp-content/uploads/2024/09/expertise-afsah-anwar-255x255.jpg
 role: assistant professor
-group: collaborators7
-rank: 7
+group: 7
 aliases:
 links:
    orcid: 

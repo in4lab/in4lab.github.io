@@ -2,9 +2,8 @@
 name: Mohammed Abuhamad
 image: https://media.licdn.com/dms/image/v2/D5603AQFkiWWEpuSdrg/profile-displayphoto-shrink_200_200/B56ZUQEV70HEAY-/0/1739731329766?e=1749686400&v=beta&t=hpg0FLcXrG0r8nmssSP0YC7FE3NZtjE6yYW9QRCiktI
 role: pro
-group: collaborators
+group: 4
 aliases:
-rank: 4
 links:
    orcid: 0000-0002-3368-6024
    linkedin: abuhamadm

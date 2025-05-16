@@ -14,12 +14,12 @@ nav:
 <!--{% include list.html data="members" component="portrait" filters="group: collaborators, role: pi" %}
 <br/>-->
 
-{% include colab_list.html data="members" component="portrait" filters="group: 1, role: ^(?!pi$)" %}
-{% include colab_list.html data="members" component="portrait" filters="group: 2, role: ^(?!pi$)" %}
-{% include colab_list.html data="members" component="portrait" filters="group: 3, role: ^(?!pi$)" %}
-{% include colab_list.html data="members" component="portrait" filters="group: 4, role: ^(?!pi$)" %}
-{% include colab_list.html data="members" component="portrait" filters="group: 5, role: ^(?!pi$)" %}
-{% include colab_list.html data="members" component="portrait" filters="group: 6, role: ^(?!pi$)" %}
-{% include colab_list.html data="members" component="portrait" filters="group: 7, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 1, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 2, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 3, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 4, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 5, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 6, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 7, role: ^(?!pi$)" %}
 
-{% include colab_list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}

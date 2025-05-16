@@ -20,8 +20,6 @@ nav:
 {% include colab_list.html data="members" component="portrait" filters="group: 4, role: ^(?!pi$)" %}
 {% include colab_list.html data="members" component="portrait" filters="group: 5, role: ^(?!pi$)" %}
 {% include colab_list.html data="members" component="portrait" filters="group: 6, role: ^(?!pi$)" %}
-
-{% include colab_list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}
-
 {% include colab_list.html data="members" component="portrait" filters="group: 7, role: ^(?!pi$)" %}
 
+{% include colab_list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}

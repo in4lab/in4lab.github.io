@@ -24,7 +24,7 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
-  image="iimages/gallery/team-workig.jpeg"
+  image="images/gallery/team-workig.jpeg"
   link="images/gallery/team-workig.jpeg"
   caption=""
   width="300px"

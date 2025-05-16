@@ -81,10 +81,3 @@
 
 ---
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://sec-deadlines.github.io/" target="_blank" style="text-decoration: none;">
-    <button style="padding: 10px 20px; font-size: 16px; background-color: #0078D7; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Visit Security Deadlines
-    </button>
-  </a>
-</div>

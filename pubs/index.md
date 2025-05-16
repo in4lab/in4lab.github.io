@@ -11,7 +11,7 @@ nav:
 include button.html
 icon="fa-solid fa-calendar-alt"
 text="View Upcoming Conferences & Journals"
-link="upcoming"
+link="pubs/upcoming"
 %}
 
 # {% include icon.html icon="fa-regular fa-newspaper" %}Featured Publications

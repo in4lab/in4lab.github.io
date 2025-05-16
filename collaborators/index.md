@@ -14,7 +14,8 @@ nav:
 <!--{% include list.html data="members" component="portrait" filters="group: collaborators, role: pi" %}
 <br/>-->
 
-{% include list.html data="members" component="portrait" filters="namme: DaeHun Nyang" %}
+{% include colab_list.html data="members" component="portrait" filters="group: collaborators1, role: ^(?!pi$)" %}
+{% include colab_list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}
 
-{% include list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}
+{% include colab_list.html data="members" component="portrait" filters="group: collaborators7, role: ^(?!pi$)" %}
 

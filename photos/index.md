@@ -16,9 +16,33 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
+  image="images/gallery/team-full.jpeg"
+  link="images/gallery/team-full.jpeg"
+  caption="celebrating teachers day!"
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="iimages/gallery/team-workig.jpeg"
+  link="images/gallery/team-workig.jpeg"
+  caption=""
+  width="300px"
+%}
+
+{%
+  include figure.html
   image="images/gallery/2025/teachers_day.jpeg"
   link="images/gallery/2025/teachers_day.jpeg"
   caption="Students council visit on teacher's day."
+  width="300px"
+%}
+
+{%
+  include figure.html
+  image="images/gallery/chris.jpeg"
+  link="images/gallery/chris.jpeg"
+  caption=""
   width="300px"
 %}
 

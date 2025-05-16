@@ -13,15 +13,18 @@ nav:
 
 ## 📩 Contact Information
 
-<div style="margin-bottom: 1em;">
-  <strong>Email</strong><br>
-  <a href="mailto:tamer@skku.edu" style="display:inline-block; background-color:#007BFF; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">📧 tamer@skku.edu</a>
-</div>
-
-<div>
-  <strong>Phone</strong><br>
-  <a href="tel:+82-031-290-7968" style="display:inline-block; background-color:#28a745; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">📞 (031) 290-7968</a>
-</div>
+{%
+  include button.html
+  icon="fa-solid fa-mail"
+  text="tamer@skku dot edu"
+  link="mailto:tamer@skku.edu"
+%}
+{%
+  include button.html
+  icon="fa-solid fa-phone"
+  text="(031) 290-7968"
+  link="tel:+82-031-290-7968"
+%}
 
 ---
 
@@ -51,8 +54,8 @@ For a detailed view of the campus, you can explore the official **Sungkyunkwan U
 
 <div style="margin: 2em 0; text-align: center;">
   <iframe 
-    width="100%" 
-    height="500" 
+    width="1000" 
+    height="600" 
     frameborder="0" 
     style="border:0; border-radius: 10px;" 
     src="https://www.skku.edu/eng/About/campusinfo/CampusMap.do?campusCd=2&srSearchValue=" 

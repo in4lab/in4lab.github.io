@@ -16,6 +16,7 @@ links:
    youtube: 
    email: 
    home-page: https://scholar.google.co.kr/citations?user=jHamj0sAAAAJ&hl=en
+---
 
 Mohamed Noureldin is a researcher specializing in data science and machine learning. His work focuses on developing innovative algorithms for real-world applications.
 

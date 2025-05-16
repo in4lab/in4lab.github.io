@@ -8,20 +8,18 @@ nav:
 # Quick Links
 
 {%
-  include button.html
-  icon="fa-solid fa-calendar-alt"
-  text="Upcoming Conferences and Journals"
-  link="upcoming"
+include button.html
+icon="fa-solid fa-calendar-alt"
+text="View Upcoming Conferences & Journals"
+link="upcoming"
 %}
 
-<center>
-<!-- Generated from https://shiny.rcg.sfu.ca/u/rdmorin/pubmedcloud3/ -->
-<img src="../images/wordcloud.png" alt="A word cloud of publication titles" style="width:600px"/>
-</center>
+# {% include icon.html icon="fa-regular fa-newspaper" %}Featured Publications
 
-# {% include icon.html icon="fa-regular fa-newspaper" %}Publications
 
-Explore our latest peer-reviewed articles, conference papers, and journal publications.
+Discover our most recent peer-reviewed articles, conference proceedings, and journal papers. Dive into cutting-edge research spanning federated learning, security, and robust AI systems.
+
+
 
 
 

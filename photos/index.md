@@ -56,6 +56,14 @@ MORE COMING SOON! Until then, check out some older photos on [our old lab websit
 
 {%
   include figure.html
+  image="images/gallery/team-itrc.jpeg"
+  link="images/gallery/team-itrc.jpeg"
+  caption="ITRC 2025"
+  width="300px"
+%}
+
+{%
+  include figure.html
   image="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.23.56 PM.jpeg"
   link="images/gallery/2025/WhatsApp Image 2025-04-24 at 7.23.56 PM.jpeg"
   caption="ITRC 2025"

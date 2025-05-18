@@ -8,7 +8,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team photos
 
-MORE COMING SOON! Until then, check out some older photos on [our old lab website](https://infolab.skku.edu/gallery/).
+Welcome to our gallery! Here, you can explore memorable moments and events captured in photos, showcasing the vibrant life and activities of our team.
 
 {% include section.html %}
 

@@ -53,11 +53,6 @@
   buttons:
   - type: pdf
     link: pdf/SingleADV_Single-Class_Target-Specific_Attack_Against_Interpretable_Deep_Learning_Systems.pdf
-- id: doi.org/10.48550/arXiv.2103.13032
-  image: 'images/thumbnails/AN EXPLORATION OF GEO-TEMPORAL CHARACTERISTICS OF USERS REACTIONS ON SOCIAL MEDIA DURING THE PANDEMIC.png'
-  buttons:
-  - type: pdf
-    link: pdf/AN EXPLORATION OF GEO-TEMPORAL CHARACTERISTICS OF USERS REACTIONS ON SOCIAL MEDIA DURING THE PANDEMIC.pdf
 - id: doi.org/10.48550/arXiv.2307.11906
   image: 'images/thumbnails/Unveiling Vulnerabilities in Interpretable Deep Learning Systems with Query-Efficient Black-box Attacks.png'
   buttons:

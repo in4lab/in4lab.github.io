@@ -27,4 +27,4 @@ Discover our most recent peer-reviewed articles, conference proceedings, and jou
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="orcid: 0000-0001-9232-4843|0000-0001-9705-1477|0000-0002-0086-8155|0009-0002-4648-9289"%}
+{% include list.html data="citations" component="citation" style="rich" filters="orcid: 0000-0001-9232-4843|0000-0002-0086-8155|0009-0002-4648-9289"%}

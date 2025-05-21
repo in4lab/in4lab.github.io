@@ -50,8 +50,7 @@ For meetings or consultations, visit the professor’s office on the **4th Floor
 
 ## 🗺️ Campus Map
 
-For a detailed view of the campus, you can explore the official **Sungkyunkwan University (SKKU)** campus map below:
-
+Explore the **Sungkyunkwan University (SKKU)** campus with the official interactive map. Click the button below for a detailed view of campus buildings and facilities:
 {%
   include button.html
   icon="fa-solid fa-map"

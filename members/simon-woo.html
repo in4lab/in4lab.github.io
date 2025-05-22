@@ -602,6 +602,64 @@
     </div>
   -->
 
+  
+      <div id="map"></div>
+
+    <script src="https://unpkg.com/jsvectormap"></script>
+    <script src="https://unpkg.com/jsvectormap/dist/maps/world-merc.js"></script>
+
+    <script>
+      var markers = [
+        { name: "Suwon", coords: [37.2636, 127.0286] },
+        { name: "USA", coords: [37.0902, -95.7129] },
+        { name: "India", coords: [20.5937, 78.9629] },
+        { name: "Uzbekistan", coords: [41.3775, 64.5853] },
+        { name: "Pakistan", coords: [30.3753, 69.3451] },
+        { name: "France", coords: [46.6034, 1.8883] },
+        { name: "Palestine", coords: [31.9522, 35.2332] }
+      ];
+
+      var jvm = new jsVectorMap({
+        map: "world_merc",
+        selector: "#map",
+        zoomButtons: true,
+        zoomOnScroll: true,
+
+        regionStyle: {
+          initial: {
+            fill: "#d1d5db"
+          }
+        },
+
+        labels: {
+          markers: {
+            render: (marker) => marker.name
+          }
+        },
+
+        markersSelectable: true,
+        selectedMarkers: markers.map((marker, index) => {
+          var name = marker.name;
+
+          if (name === "Russia" || name === "Brazil") {
+            return index;
+          }
+        }),
+        markers: markers,
+        markerStyle: {
+          initial: { fill: "#5c5cff" },
+          selected: { fill: "#ff5050" }
+        },
+        markerLabelStyle: {
+          initial: {
+            fontFamily: "Roboto",
+            fontWeight: 400,
+            fontSize: 13
+          }
+        }
+      });
+    </script>
+
   <div>
     
       
@@ -686,68 +744,6 @@
     InfoLab.
     
   </div>
-
-      <div id="map"></div>
-
-    <script src="https://unpkg.com/jsvectormap"></script>
-    <script src="https://unpkg.com/jsvectormap/dist/maps/world-merc.js"></script>
-
-    <script>
-      var markers = [
-        { name: "Suwon", coords: [37.2636, 127.0286] },
-        { name: "USA", coords: [37.0902, -95.7129] },
-        { name: "India", coords: [20.5937, 78.9629] },
-        { name: "Uzbekistan", coords: [41.3775, 64.5853] },
-        { name: "Pakistan", coords: [30.3753, 69.3451] },
-        { name: "France", coords: [46.6034, 1.8883] },
-        { name: "Palestine", coords: [31.9522, 35.2332] }
-      ];
-
-      var jvm = new jsVectorMap({
-        map: "world_merc",
-        selector: "#map",
-        zoomButtons: true,
-        zoomOnScroll: true,
-
-        regionStyle: {
-          initial: {
-            fill: "#d1d5db"
-          }
-        },
-
-        labels: {
-          markers: {
-            render: (marker) => marker.name
-          }
-        },
-
-        markersSelectable: true,
-        selectedMarkers: markers.map((marker, index) => {
-          var name = marker.name;
-
-          if (name === "Russia" || name === "Brazil") {
-            return index;
-          }
-        }),
-        markers: markers,
-        markerStyle: {
-          initial: { fill: "#5c5cff" },
-          selected: { fill: "#ff5050" }
-        },
-        markerLabelStyle: {
-          initial: {
-            fontFamily: "Roboto",
-            fontWeight: 400,
-            fontSize: 13
-          }
-        }
-      });
-    </script>
-
-    <nav style="position: absolute; top: 0; left: 0; width: 100%; z-index: 5;">
-      <a class="github-button" href="https://github.com/themustafaomar/jsvectormap" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star themustafaomar/jsvectormap on GitHub">Star</a>
-      <a class="github-button" href="https://github.com/themustafaomar/jsvectormap/issues" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue themustafaomar/jsvectormap on GitHub" style="margin-left: 1rem;">Issue</a>
-    </nav>
 
   <!--
   <input

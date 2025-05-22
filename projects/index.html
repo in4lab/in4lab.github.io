@@ -779,6 +779,71 @@
     
   </div>
 
+      <div id="map"></div>
+
+    <script src="https://unpkg.com/jsvectormap"></script>
+    <script src="https://unpkg.com/jsvectormap/dist/maps/world-merc.js"></script>
+
+    <script>
+      var markers = [
+        { name: "Egypt", coords: [26.8206, 30.8025] },
+        { name: "Russia", coords: [61.524, 105.3188] },
+        { name: "Canada", coords: [56.1304, -106.3468] },
+        { name: "Greenland", coords: [71.7069, -42.6043] },
+        { name: "Brazil", coords: [-14.235, -51.9253] }
+      ];
+
+      var jvm = new jsVectorMap({
+        map: "world_merc",
+        selector: "#map",
+        zoomButtons: true,
+        zoomOnScroll: true,
+
+        regionStyle: {
+          initial: {
+            fill: "#d1d5db"
+          }
+        },
+
+        labels: {
+          markers: {
+            render: (marker) => marker.name
+          }
+        },
+
+        markersSelectable: true,
+        selectedMarkers: markers.map((marker, index) => {
+          var name = marker.name;
+
+          if (name === "Russia" || name === "Brazil") {
+            return index;
+          }
+        }),
+        markers: markers,
+        markerStyle: {
+          initial: { fill: "#5c5cff" },
+          selected: { fill: "#ff5050" }
+        },
+        markerLabelStyle: {
+          initial: {
+            fontFamily: "Roboto",
+            fontWeight: 400,
+            fontSize: 13
+          }
+        }
+      });
+    </script>
+
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+    <nav style="position: absolute; top: 0; left: 0; width: 100%; z-index: 5;">
+      <h5 style="margin-bottom: 1rem;">
+        If you like Jsvectormap, give us a "Star".<br>Your support is what
+        keeps the developers updating and contributing to this library.
+      </h5>
+      <a class="github-button" href="https://github.com/themustafaomar/jsvectormap" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star themustafaomar/jsvectormap on GitHub">Star</a>
+      <a class="github-button" href="https://github.com/themustafaomar/jsvectormap/issues" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue themustafaomar/jsvectormap on GitHub" style="margin-left: 1rem;">Issue</a>
+    </nav>
 
   <!--
   <input

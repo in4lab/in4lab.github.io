@@ -39,14 +39,14 @@
       <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=COvPQVJGuO8N7b5dqprqmgk25CrRMR0mNGZhOqOFasw"></script>
     </div>
   </div>
-  <div>
+  <div style="margin-top: -65px;">
         {% for link in site.links %}
           {% assign key = link[0] %}
           {% assign value = link[1] %}
           {% include button.html type=key text="" link=value style="bare" %}
         {% endfor %}
   </div>
-  <div">
+  <div style="text-align: center; margin: -25px;">
         &copy; {{ site.time | date: "%Y" }} {{ site.title }}
   </div>
 

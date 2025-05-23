@@ -25,13 +25,6 @@
         <li><a class="white-text" href="https://ai.skku.edu/ai/index.do">Department of Artificial Intelligence</a></li>
         <li><a class="white-text" href="https://skb.skku.edu/skkuaai/index.do">Department of Applied Artificial Intelligence</a></li>
       </ul>
-      <div>
-        {% for link in site.links %}
-          {% assign key = link[0] %}
-          {% assign value = link[1] %}
-          {% include button.html type=key text="" link=value style="bare" %}
-        {% endfor %}
-      </div>
     </div>
 
     <!-- Right Column: About -->
@@ -41,6 +34,13 @@
         Infolab is a research group at SKKU focusing on data science, AI, and computer science.<br>
         <span style="font-size: 1.2em; margin-right: 0.3em;">&#x1F4CD;</span>SKKU, Suwon, South Korea
       </p>
+      <div>
+        {% for link in site.links %}
+          {% assign key = link[0] %}
+          {% assign value = link[1] %}
+          {% include button.html type=key text="" link=value style="bare" %}
+        {% endfor %}
+      </div>
       <div style="margin-top: 1rem;">
         &copy; {{ site.time | date: "%Y" }} {{ site.title }}
       </div>

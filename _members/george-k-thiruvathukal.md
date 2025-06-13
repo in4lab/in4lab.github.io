@@ -1,6 +1,6 @@
 ---
 name: George K. Thiruvathukal
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ls7yS0IAAAAJ&citpid=3
+image: images/george-k-thiruvathukal.jpeg
 role: professor
 group: collaborators
 aliases:

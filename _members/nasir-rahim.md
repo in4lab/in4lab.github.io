@@ -1,6 +1,6 @@
 ---
 name: Nasir Rahim
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=if8kXykAAAAJ&citpid=4
+image: images/nasir-rahim.jpeg
 role: phd
 group: alum
 aliases:

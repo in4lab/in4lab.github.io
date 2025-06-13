@@ -1,6 +1,6 @@
 ---
 name: Hyoungshick Kim
-image: https://i0.wp.com/research.csiro.au/cybersecurity-quantum-systems/wp-content/uploads/sites/113/2019/11/Dr-Hyoungshick-Kim-e1574132886907.jpg?w=840&ssl=1
+image: images/hyoungshick-kim.webp
 role: associate professor
 group: 5
 aliases:

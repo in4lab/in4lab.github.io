@@ -1,6 +1,6 @@
 ---
 name: Mohamed Noureldin
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jHamj0sAAAAJ&citpid=3
+image: images/mohamed--noureldin.jpeg
 role: researcher
 group: collaborators
 aliases:

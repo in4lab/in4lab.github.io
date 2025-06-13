@@ -1,6 +1,6 @@
 ---
 name: Eldor Abdukhamidov 
-image: https://i1.rgstatic.net/ii/profile.image/1100498404937739-1639390674957_Q128/Eldor-Abdukhamidov.jpg
+image: images/Eldor-Abdukhamidov.png
 role: combined
 group: alum
 aliases:

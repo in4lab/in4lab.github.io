@@ -1,6 +1,6 @@
 ---
 name: Eric Chan-Tin
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Eleytz0AAAAJ&citpid=1
+image: images/eric-chan-tin.jpeg
 role: associate professor
 group: collaborators
 aliases:

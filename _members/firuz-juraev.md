@@ -1,6 +1,6 @@
 ---
 name: Firuz Juraev
-image: https://i1.rgstatic.net/ii/profile.image/1006941165846530-1617084890329_Q128/Firuz-Juraev.jpg
+image: images/Firuz-Juraev.png
 role: combined
 group: active
 links:

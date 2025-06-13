@@ -1,6 +1,6 @@
 ---
 name: Abolghasem Sadeghi-Niaraki
-image: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-V8_A5YAAAAJ&citpid=3
+image: images/abdelghasem-sadeghi-niharaki.jpeg
 role: professor
 group: collaborators
 aliases:

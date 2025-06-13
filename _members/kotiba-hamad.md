@@ -1,6 +1,6 @@
 ---
 name: Kotiba Hamad
-image: https://professor.skku.edu/_attach/professor/wbXQNLAFcYxRshNRcnXx.jpg
+image: images/kotiba-hamad.jpg
 role: associate professor
 group: 6
 aliases:

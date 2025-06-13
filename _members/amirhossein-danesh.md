@@ -1,6 +1,6 @@
 ---
 name: Amirhossein Danesh
-image: https://media.licdn.com/dms/image/v2/D5603AQGUwU5GZtex7w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723457390976?e=1749686400&v=beta&t=WmZumo61eZUMj480dMA_Mdk32biat8_2Xd49bYru9lE
+image: images/amirhossein-danesh.jpeg
 role: master
 group: alum
 aliases:

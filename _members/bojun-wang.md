@@ -1,6 +1,6 @@
 ---
 name: Bojun Wang
-image: https://media.licdn.com/dms/image/v2/C5603AQGxLZUEaXboWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1624478111233?e=1749686400&v=beta&t=G1M8lmbfzoxs27BfYKNJAzbxEYD6_ZUYNdidX2ZM7fo
+image: images/bojun-wang.jpeg
 role: master
 group: alum
 aliases:

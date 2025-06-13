@@ -1,6 +1,6 @@
 ---
 name: QIRUI SUN
-image: https://media.licdn.com/dms/image/v2/C5603AQHs-2195AwRxw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1661509927975?e=1749686400&v=beta&t=h8Mk5cVbsKIx84V6HDt7yf8y3OM_V4y-VzshdFNHjAQ
+image: images/qirui-sun.jpeg
 role: master
 group: alum
 aliases:

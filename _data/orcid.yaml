@@ -10,6 +10,6 @@
   shaker-el-sappagh-list: true
 
 
-## Keep Andrew last in this list so 'orcid' gets correctly added to citations.yaml
+## Keep Tamer last in this list so 'orcid' gets correctly added to citations.yaml
 - orcid: 0000-0001-9232-4843
   tamer-abuhmed-list: true

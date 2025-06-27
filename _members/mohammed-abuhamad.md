@@ -2,7 +2,7 @@
 name: Mohammed Abuhamad
 image: images/mohammed-abuhamad.jpeg
 role: pro
-group: 4
+group: 5
 aliases:
 links:
    orcid: 0000-0002-3368-6024

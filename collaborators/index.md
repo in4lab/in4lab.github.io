@@ -21,5 +21,10 @@ nav:
 {% include list.html data="members" component="portrait" filters="group: 5, role: ^(?!pi$)" %}
 {% include list.html data="members" component="portrait" filters="group: 6, role: ^(?!pi$)" %}
 {% include list.html data="members" component="portrait" filters="group: 7, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 8, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 9, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 10, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 11, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: 12, role: ^(?!pi$)" %}
 
 {% include list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}

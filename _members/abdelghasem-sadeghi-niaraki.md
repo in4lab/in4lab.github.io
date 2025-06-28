@@ -2,7 +2,7 @@
 name: Abolghasem Sadeghi-Niaraki
 image: images/abdelghasem-sadeghi-niharaki.jpeg
 role: professor
-group: collaborators
+group: 8
 aliases:
    links:
       orcid: 

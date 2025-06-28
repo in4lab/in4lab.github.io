@@ -23,8 +23,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="group: 7, role: ^(?!pi$)" %}
 {% include list.html data="members" component="portrait" filters="group: 8, role: ^(?!pi$)" %}
 {% include list.html data="members" component="portrait" filters="group: 9, role: ^(?!pi$)" %}
-{% include list.html data="members" component="portrait" filters="group: a, role: ^(?!pi$)" %}
-{% include list.html data="members" component="portrait" filters="group: b, role: ^(?!pi$)" %}
-{% include list.html data="members" component="portrait" filters="group: c, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: _a, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: _b, role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="group: _c, role: ^(?!pi$)" %}
 
 {% include list.html data="members" component="portrait" filters="group: collaborators, role: ^(?!pi$)" %}

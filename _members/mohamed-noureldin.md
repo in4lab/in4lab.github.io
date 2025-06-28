@@ -2,9 +2,8 @@
 name: Mohamed Noureldin
 image: images/mohamed--noureldin.jpeg
 role: researcher
-group: collaborators
+group: b
 aliases:
-rank: 11
 links:
    orcid: 
    linkedin: 

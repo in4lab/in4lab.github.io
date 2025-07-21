@@ -28,6 +28,13 @@ nav:
   link="/team/join"
 %}
 
+{%
+  include button.html
+  icon="fa-solid fa-door-open"
+  text="Join us"
+  link="/team/update"
+%}
+
 
 
 Our lab is made up of a talented mix of graduate students, postdoctoral researchers, programmers, and staff, and their backgrounds range from pure computer science to experimental biology. If you're interested in joining this diverse and dynamic team, please reach out!
